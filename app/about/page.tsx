@@ -1,0 +1,2 @@
+export const metadata = { title:"關於本站", description:"了解遊戲觀察室的內容定位與編輯原則。", alternates:{canonical:"/about"} };
+export default function AboutPage(){return <main className="content-wrap"><h1>關於遊戲觀察室</h1><div className="article-body"><p>遊戲觀察室致力於以清楚易懂的方式整理遊戲規則、機率知識與隨機性概念。</p><h2>編輯原則</h2><p>我們重視資訊清楚、來源可核實與避免誇大宣稱。文章以教育與一般知識為目的。</p><p>目前網站內容為初始示範文章，正式營運時應補充作者資訊、資料來源與定期更新紀錄。</p></div></main>}

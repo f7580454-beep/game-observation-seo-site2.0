@@ -1,0 +1,2 @@
+export const metadata = { title:"內容聲明", description:"遊戲觀察室內容使用與教育性聲明。", alternates:{canonical:"/disclaimer"} };
+export default function DisclaimerPage(){return <main className="content-wrap"><h1>內容聲明</h1><div className="article-body"><p>本站內容僅供一般知識與教育用途，不構成獲利保證、財務建議或特定遊戲結果預測。</p><p>機率、回報率與統計概念應依適用規則、資料來源與實際條件理解。請勿將短期結果解讀為確定預測。</p><p>使用者應自行確認所在地法律及服務條款。本站不鼓勵違法或不負責任的遊戲行為。</p></div></main>}

@@ -1,0 +1,2 @@
+export const metadata = { title:"隱私權政策", description:"遊戲觀察室隱私權政策。", alternates:{canonical:"/privacy"} };
+export default function PrivacyPage(){return <main className="content-wrap"><h1>隱私權政策</h1><div className="article-body"><p>本頁為政策範本。網站正式上線前，請依實際使用的分析工具、Cookie、表單、廣告與資料處理方式調整。</p><h2>資料蒐集</h2><p>若網站未設置帳號、留言或聯絡表單，請明確說明目前不透過本站主動蒐集使用者提交的個人資料。伺服器或分析服務仍可能依其設定處理技術性紀錄。</p><h2>第三方服務</h2><p>若日後使用 Google Analytics、廣告或其他第三方服務，應在此列明服務名稱、用途與相關選擇方式。</p><h2>聯絡方式</h2><p>正式上線前請填入網站營運者的有效聯絡方式。</p></div></main>}
